@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-
+// EIP 1967 :: https://eips.ethereum.org/EIPS/eip-1967
 pragma solidity ^0.8.7;
 
 import '@openzeppelin/contracts/proxy/Proxy.sol';
